@@ -2,7 +2,7 @@
 
   
 
-## Проектная работа 12_v1.0.0
+## Проектная работа 12_v1.0.1
 
 ## Node.js / Express
 
@@ -20,7 +20,7 @@
   
   
 
-Актуальная версия проекта (v1.0.0) доступна по этой [ссылке](https://github.com/Lsnsky/Yandex.Praktikum_Project_12_Node.js.git)
+Актуальная версия проекта (v1.0.1) доступна по этой [ссылке](https://github.com/Lsnsky/Yandex.Praktikum_Project_12_Node.js.git)
 
 ###  ПО для выполнения задания:
 <li>
